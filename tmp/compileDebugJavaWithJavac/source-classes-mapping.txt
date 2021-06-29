@@ -1,0 +1,9 @@
+com/sensoyyasin/landmarkbook/BuildConfig.java
+ com.sensoyyasin.landmarkbook.BuildConfig
+com/sensoyyasin/landmarkbook/MainActivity.java
+ com.sensoyyasin.landmarkbook.MainActivity
+ com.sensoyyasin.landmarkbook.MainActivity$1
+com/sensoyyasin/landmarkbook/DetailActivity.java
+ com.sensoyyasin.landmarkbook.DetailActivity
+com/sensoyyasin/landmarkbook/Singleton.java
+ com.sensoyyasin.landmarkbook.Singleton
